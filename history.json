@@ -1,0 +1,19 @@
+[
+    {
+        "timestamp": "2025-08-02 07:29:10",
+        "skills": [
+            {
+                "name": "test1",
+                "value": 10
+            },
+            {
+                "name": "test2",
+                "value": 50
+            },
+            {
+                "name": "test7",
+                "value": 30
+            }
+        ]
+    }
+]
